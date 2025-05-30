@@ -78,13 +78,13 @@ class Me:
     def __init__(self):
         self.openai = OpenAI(base_url="http://localhost:11434/v1", api_key="ollama")
         self.name = "tanuj"
-        reader = PdfReader("D:\project\personal project\personal_info\cv.pdf")  # Escape backslashes
+        reader = PdfReader("personal_info/cv.pdf") # Escape backslashes
         self.linkedin = ""
         for page in reader.pages:
             text = page.extract_text()
             if text:
                 self.linkedin += text
-        with open(r"D:\project\agents\1_foundations\me\summary.txt", "r", encoding="utf-8") as f:
+        with open(r"D:\project\personal project\personal_info\summary.txt", "r", encoding="utf-8") as f:
             self.summary = f.read()
 
 
