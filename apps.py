@@ -84,7 +84,7 @@ class Me:
             text = page.extract_text()
             if text:
                 self.linkedin += text
-        with open(r"D:\project\personal project\personal_info\summary.txt", "r", encoding="utf-8") as f:
+        with open("personal_info/summary.txt", "r", encoding="utf-8") as f:
             self.summary = f.read()
 
 
