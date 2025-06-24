@@ -1,0 +1,49 @@
+<<<<<<< HEAD
+What is the importance of Action Instructions when creating a custom Agent action?
+A. Action Instructions tell the large language model (LLM) which action to use
+B. Action Instructions define the expected user experience of an action
+C. Action Instructions tell the user how to call this action in a conversation
+B
+ 
+Universal Containers (UC) wants to leverage Generative Al Salesforce functionality to reduce Service Agent handling time by providing recommended replies based on the existing Knowledge articles. On which Al capabilities should UC train the service agent?
+A. Care Replies
+B. Service Replies
+C. Knowledge Replies
+C
+
+Universal Containers service team wants to customize the standard case summary response from Agentforce. What should the Agentforce Specialist do to sens this ?
+A. Summarize the Case with a standard Agent action.
+B. Customize the standard Record Summary template for the Case object.
+C. Create a custom Record Summary prompt template for the Case object.
+C
+
+
+
+
+
+
+=======
+What is the importance of Action Instructions when creating a custom Agent action?
+A. Action Instructions tell the large language model (LLM) which action to use
+B. Action Instructions define the expected user experience of an action
+C. Action Instructions tell the user how to call this action in a conversation
+B
+ 
+Universal Containers (UC) wants to leverage Generative Al Salesforce functionality to reduce Service Agent handling time by providing recommended replies based on the existing Knowledge articles. On which Al capabilities should UC train the service agent?
+A. Care Replies
+B. Service Replies
+C. Knowledge Replies
+C
+
+Universal Containers service team wants to customize the standard case summary response from Agentforce. What should the Agentforce Specialist do to sens this ?
+A. Summarize the Case with a standard Agent action.
+B. Customize the standard Record Summary template for the Case object.
+C. Create a custom Record Summary prompt template for the Case object.
+C
+
+
+
+
+
+
+>>>>>>> 6e00896612f7146686db886a18763b17be37caa4
